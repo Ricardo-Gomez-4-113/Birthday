@@ -1,0 +1,4 @@
+#Fri Dec 11 20:32:43 CST 2020
+base.0=C\:\\Users\\ricardo\\Documents\\birthday\\birthday\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
